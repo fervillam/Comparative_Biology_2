@@ -70,6 +70,8 @@ dev.off()
 
 ### The Simple Birth-Death and Yule Models ###
 
+## Simple Birth-Death Model ##
+
 birth_death_rodent <- birthdeath(rodent_ultra_tree)
 birth_death_rodent
 
